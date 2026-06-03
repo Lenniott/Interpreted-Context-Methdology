@@ -2,8 +2,7 @@
 
 Common ways to frame a case study, and how to pick the one that fits. An angle is the single sentence that says what this case study is really about. The same project can support several; choose the one that serves your positioning and the reader.
 
-<!-- Default pattern set. Your case study guidance notes may add, rename, or
-     reorder these. Replace as needed. -->
+Whatever angle you pick, the case study leads with the outcome (see `../../shared/case-study-anatomy.md`). The angle decides which outcome and which decisions carry the story.
 
 ## The Patterns
 
@@ -32,4 +31,9 @@ The work itself was the achievement -- a level of polish, rigor, or technical de
 1. List the moments in the dossier with the most tension or the strongest evidence.
 2. Match each to the pattern it best fits.
 3. Pick the angle where your strongest material and your positioning line up. The best angle is the one only you could write, because of the specific decisions you made.
-4. Reject angles the dossier cannot support with evidence.
+4. Tailor the emphasis to the intended reader: designers want process, leadership wants business impact, product managers want collaboration.
+5. Reject angles the dossier cannot support with evidence.
+
+## Avoid the Template Trap
+
+The single biggest differentiator is decision traceability: the paths you rejected and why. Generic case studies all use the same section headers and read the same. Lead with your distinctive point of view and the judgment only you could show. Do not force the project into a formulaic mold.

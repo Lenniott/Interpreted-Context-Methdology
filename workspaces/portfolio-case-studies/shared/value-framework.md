@@ -40,6 +40,8 @@ The reader trusts you more after reading -- through honesty about tradeoffs, awa
 
 ## How to Use
 
-At the angle checkpoint, tag the chosen angle with which value types it naturally hits. Lock the 2-3 this specific case study will deliver, and make sure the outline gives each one room.
+These value types name *what dimension of you* a case study proves. The impact toolkit in `impact-evidence.md` is *how* you prove it. Use them together: lock the value types here, then choose the evidence that demonstrates them.
+
+At the angle checkpoint, tag the chosen angle with which value types it naturally hits. Lock the 2-3 this specific case study will deliver, and make sure the outline gives each one room. Tailor the emphasis to the reader: designers want to see thinking, leadership wants impact, product managers want collaboration.
 
 A case study that tries to hit all five hits none well. Two strong value types beat five weak ones. Three is ideal when the project supports it.

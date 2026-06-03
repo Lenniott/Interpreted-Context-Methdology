@@ -36,7 +36,8 @@ portfolio-case-studies/
 │       ├── output/
 │       └── references/    (format guide)
 └── shared/
-    ├── case-study-anatomy.md  (the canonical structure of a case study)
+    ├── case-study-anatomy.md  (the outcome-first structure of a case study)
+    ├── impact-evidence.md     (how to prove impact, with or without metrics)
     └── value-framework.md     (what makes a case study worth reading)
 ```
 
@@ -73,10 +74,10 @@ Pipeline Status: portfolio-case-studies
 
 | Task | Load These | Do NOT Load |
 |------|-----------|-------------|
-| Capture a project | `stages/01-capture/references/capture-prompts.md`, `author-vault/identity.md` | `author-vault/voice-rules.md`, all later stage references |
-| Choose the angle | `stages/01-capture/output/`, `stages/02-angle/references/angle-patterns.md`, `shared/value-framework.md`, `shared/case-study-anatomy.md`, `author-vault/identity.md` | `author-vault/voice-rules.md`, `stages/03-draft/`, `stages/04-polish/` |
-| Write the draft | `stages/02-angle/output/`, `stages/03-draft/references/draft-guide.md`, `shared/case-study-anatomy.md`, `author-vault/voice-rules.md`, `author-vault/identity.md` | `stages/01-capture/`, `stages/04-polish/`, `stages/05-publish/` |
-| Polish the draft | `stages/03-draft/output/`, `stages/04-polish/references/polish-checklist.md`, `author-vault/voice-rules.md`, `shared/value-framework.md` | `stages/01-capture/`, `stages/02-angle/`, `stages/03-draft/references/` |
+| Capture a project | `stages/01-capture/references/capture-prompts.md`, `shared/impact-evidence.md`, `author-vault/identity.md` | `author-vault/voice-rules.md`, all later stage references |
+| Choose the angle | `stages/01-capture/output/`, `stages/02-angle/references/angle-patterns.md`, `shared/value-framework.md`, `shared/impact-evidence.md`, `shared/case-study-anatomy.md`, `author-vault/identity.md` | `author-vault/voice-rules.md`, `stages/03-draft/`, `stages/04-polish/` |
+| Write the draft | `stages/02-angle/output/`, `stages/03-draft/references/draft-guide.md`, `shared/case-study-anatomy.md`, `shared/impact-evidence.md`, `author-vault/voice-rules.md`, `author-vault/identity.md` | `stages/01-capture/`, `stages/04-polish/`, `stages/05-publish/` |
+| Polish the draft | `stages/03-draft/output/`, `stages/04-polish/references/polish-checklist.md`, `author-vault/voice-rules.md`, `shared/impact-evidence.md`, `shared/value-framework.md` | `stages/01-capture/`, `stages/02-angle/`, `stages/03-draft/references/` |
 | Format for publishing | `stages/04-polish/output/`, `stages/05-publish/references/format-guide.md` | everything else |
 
 ## Stage Handoffs

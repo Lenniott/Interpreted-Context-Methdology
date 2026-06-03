@@ -24,5 +24,6 @@ The publish stage (05-publish) formats the polished case study for a specific pl
 | Resource | Location | Contains |
 |----------|----------|----------|
 | Author context | `author-vault/CONTEXT.md` | Routes to voice rules and author identity |
-| Case study anatomy | `shared/case-study-anatomy.md` | The canonical section structure of a case study |
+| Case study anatomy | `shared/case-study-anatomy.md` | The outcome-first section structure of a case study |
+| Impact evidence | `shared/impact-evidence.md` | How to prove impact, with or without hard metrics |
 | Value framework | `shared/value-framework.md` | The value types a case study can deliver |

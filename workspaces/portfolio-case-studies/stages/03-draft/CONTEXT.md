@@ -8,16 +8,17 @@ Turn the narrative brief into a full case study draft written in the author's vo
 |--------|--------------|---------------|-----|
 | Previous stage | `../02-angle/output/[project-slug]-brief.md` | Full file | The thesis, value types, and outline to write from |
 | Reference | `references/draft-guide.md` | Full file | How to write each section well |
-| Shared | `../../shared/case-study-anatomy.md` | "The Sections" and "Length and Shape" | The section structure and target length |
+| Shared | `../../shared/case-study-anatomy.md` | "The Sections" through "Length and Scannability" | The outcome-first structure and target length |
+| Shared | `../../shared/impact-evidence.md` | Full file | How to write the evidence and impact section |
 | Author vault | `../../author-vault/voice-rules.md` | "Hard Constraints" through "What the Voice Is NOT" | Voice to write in |
 | Author vault | `../../author-vault/identity.md` | "Audience" | Who you are writing for |
 
 ## Process
 
-1. Read the brief: thesis, locked value types, and outline.
-2. Draft a working title and a one-line opening that states the thesis or the problem with a hook.
-3. Write each section in order following the outline and the draft guide. Lead each section with its strongest sentence. Show decisions and reasoning, not just artifacts.
-4. Mark where visual evidence belongs with a bracketed note, for example `[screen: before/after of the checkout flow]`. Do not invent visuals.
+1. Read the brief: thesis, lead outcome, locked value types, and outline.
+2. Draft a working title that states the point and an opening that leads with the outcome, not the process.
+3. Write each section in outcome-first order following the outline and the draft guide. Give every section a headline that tells the story on its own. Show decisions and reasoning, including at least one rejected path.
+4. Mark where visual evidence belongs with a bracketed note, for example `[before/after: the checkout flow]`, with a "why" caption. Do not invent visuals.
 5. **[Checkpoint]** -- Present the full draft. The human redirects structure, emphasis, or any section before polish.
 6. Run the audit checks below. If any fail, revise before saving.
 7. Save the draft to output/.
@@ -32,12 +33,14 @@ Turn the narrative brief into a full case study draft written in the author's vo
 
 | Check | Pass Condition |
 |-------|---------------|
+| Outcome first | The draft opens with the strongest outcome, before the process |
+| Headline test | Reading only the section headlines conveys the whole story |
 | Thesis delivered | The draft proves the brief's thesis from start to finish |
 | Value delivery | The draft delivers on every value type locked in the brief |
+| Decisions and rejected path | Key decisions appear with reasoning and tradeoffs, and at least one rejected path is shown |
+| Evidence present | The outcome is backed by at least two evidence types, or what would be measured is named |
 | Voice constraints | Zero violations of the hard constraints in voice-rules.md |
-| Decisions shown | Key decisions appear with reasoning and tradeoffs, not just outcomes |
 | Role visible | The reader can tell exactly what the author did |
-| Section discipline | Every anatomy section is present and earns its place |
 
 ## Outputs
 
