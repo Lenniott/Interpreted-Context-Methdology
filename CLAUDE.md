@@ -16,6 +16,7 @@ model-workspace-protocol/
 └── workspaces/
     ├── script-to-animation/           (content idea -> animated video)
     ├── course-deck-production/        (unstructured material -> course PowerPoints)
+    ├── portfolio-case-studies/        (a project -> portfolio case study)
     └── workspace-builder/             (builds new MWP workspaces)
 ```
 
@@ -25,6 +26,7 @@ model-workspace-protocol/
 |-----------------|-------|
 | Create content with script-to-animation | `workspaces/script-to-animation/CLAUDE.md` |
 | Build course slide decks from source material | `workspaces/course-deck-production/CLAUDE.md` |
+| Write a portfolio case study | `workspaces/portfolio-case-studies/CLAUDE.md` |
 | Build a new workspace for any domain | `workspaces/workspace-builder/CLAUDE.md` |
 | Read the full MWP specification | `_core/CONVENTIONS.md` |
 | Understand the placeholder system | `_core/placeholder-syntax.md` |
